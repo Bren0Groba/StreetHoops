@@ -6,11 +6,9 @@
 
 # StreetHoops
 
-## Atlas
-
 ## Integrantes: <a href="https://www.linkedin.com/in/breno-groba/">Breno Groba</a>, <a href="https://www.linkedin.com/in/gustavo-archangelo/">Gustavo Archangelo</a>, <a href="https://www.linkedin.com/in/luiizsilva/">Luiz Antonio</a>, <a href="https://www.linkedin.com/in/mariana-almeidanascimento/">Mariana Almeida</a>, <a href="https://www.linkedin.com/in/rafaelafmorais/">Rafaela Morais</a>
 
-## Professor Orientador: <a href="https://www.linkedin.com/in/luisspires/">Luis Pires</a>, 
+## Professor Orientador: <a href="https://www.linkedin.com/in/luisspires/">Luis Pires</a>
 
 ## Descrição
 
@@ -42,5 +40,5 @@ _A definir conforme o desenvolvimento avançar._
 
 ## 📋 Licença/License
 
-<a href="#">SportMatch</a> © 2026 by <a href="#">Integrantes do Projeto</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a>
+<a href="#">StreetHoops</a> © 2026 by <a href="#">Breno Groba, Gustavo Archangelo, Luiz Antonio, Mariana Almeida e Rafaela MOrais</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a>
 <br><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
