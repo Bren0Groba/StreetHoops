@@ -21,7 +21,6 @@ Este projeto consiste no desenvolvimento de uma **solução digital** para conec
 A proposta envolve a criação de um ecossistema composto por:
 
 - 📱 **Aplicativo Mobile (Usuário)**
-- 🔗 **Backend (API) e Banco de Dados**
 
 O sistema permite que usuários criem ou participem de partidas, filtrando por esporte, local, horário e distância, além de consultar locais disponíveis para prática esportiva na região.
 
